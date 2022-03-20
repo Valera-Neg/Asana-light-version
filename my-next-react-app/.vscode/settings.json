@@ -1,9 +1,0 @@
-{
-  "prettier.jsxSingleQuote": false,
-  "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "prettier.requireConfig": false,
-  "prettier.arrowParens": "avoid",
-  "prettier.prettierPath": ".vscode\\settings.json",
-  "liveServer.settings.CustomBrowser": "chrome"
-}
