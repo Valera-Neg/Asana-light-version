@@ -8,3 +8,8 @@
   box-sizing: border-box;
   font-size: 1.2em;
 }
+
+p.form-result {
+  color: blue;
+  text-decoration: underline;
+}
